@@ -40,7 +40,7 @@
 
 ### 📫 ¿Cómo contactarme?
 
-- 📩 **Correo:** valentinaguerrero0810@gmail.com 
+- 📩 **Correo:** dannaguerrerosoto@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/Valentinaguerrero](https://www.linkedin.com/in/valentina-guerrero-4b3a39355/?trk=opento_sprofile_goalscard)  
 - 🌐 **Portafolio:** [miportafolio.com](https://portafoliodannag.netlify.app/)
 
