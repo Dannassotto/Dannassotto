@@ -13,7 +13,7 @@
 
 - 🎓 Formada como Técnica en Programación de Software  
 - 🧠 Me apasiona el backend con **Java**, la gestión de **bases de datos**, y la seguridad web  
-- 🌐 Diseño interfaces con **HTML, CSS, Bootstrap y JavaScript**  
+- 🌐 Diseño interfaces con **HTML, CSS y JavaScript**  
 - 🤝 Me gusta colaborar, compartir conocimiento y asumir nuevos desafíos  
 
 ---
@@ -32,8 +32,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannausuario&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannausuario&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dannassotto&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannassotto&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
