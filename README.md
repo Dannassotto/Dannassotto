@@ -42,7 +42,7 @@
 
 - 📩 **Correo:** valentinaguerrero0810@gmail.com 
 - 💼 **LinkedIn:** [linkedin.com/in/Valentinaguerrero](https://www.linkedin.com/in/valentina-guerrero-4b3a39355/?trk=opento_sprofile_goalscard)  
-- 🌐 **Portafolio:** [tuportafolio.com](https://tuportafolio.com)
+- 🌐 **Portafolio:** [miportafolio.com](https://portafoliodannag.netlify.app/)
 
 ---
 
