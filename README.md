@@ -25,7 +25,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
@@ -41,8 +40,8 @@
 
 ### 📫 ¿Cómo contactarme?
 
-- 📩 **Correo:** tu.email@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- 📩 **Correo:** valentinaguerrero0810@gmail.com 
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/valentina-guerrero-4b3a39355/?trk=opento_sprofile_goalscard)  
 - 🌐 **Portafolio:** [tuportafolio.com](https://tuportafolio.com)
 
 ---
